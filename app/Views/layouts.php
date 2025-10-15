@@ -30,5 +30,6 @@
 
     </div>
     <link rel="stylesheet" href="/../hola_mundo_crud/public/assets/css/style.css">
+    <script src="../../public/assets/js/app.js"></script>
 </body>
 </html>
