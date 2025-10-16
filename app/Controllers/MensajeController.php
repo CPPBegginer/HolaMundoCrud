@@ -8,7 +8,7 @@ class MensajeController extends Controller {
 
     $mensajes = Mensaje::all();
 
-    $this->view('Mensajes/index', compact('Mensajes'));
+    $this->view('Mensajes/index', compact('mensajes'));
 
   }
 
